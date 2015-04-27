@@ -85,7 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/starwars.ogg", name: "Duel of the Fates, Remix"},
+	{ogg: "songs/starwars.ogg", name: "Pacific Rim - Main Theme"},
 	{youtube: "", name: ""}
 	
 ];
